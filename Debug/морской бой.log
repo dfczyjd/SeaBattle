@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  морской бой.cpp
+c:\users\василий\documents\github temp\seabattle\морской бой.cpp(210): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  морской бой.vcxproj -> C:\Users\Василий\Documents\Github temp\SeaBattle\Debug\морской бой.exe
